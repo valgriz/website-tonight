@@ -1,0 +1,57 @@
+
+/**General **/
+
+body {
+	overflow-y: auto;
+}
+
+/** About section **/
+#about {
+	position: relative;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+#blurb {
+	text-align: center;
+	margin-top: 40px;
+}
+
+
+/** Skills section **/
+#resume {
+	text-align: center;
+}
+
+ul {
+	text-align: left;
+}
+
+/** Projects section **/
+#projects {
+	text-align: center;
+}
+
+#project {
+	background-color: gray;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 2px;
+	border: 2px solid black;
+}
+
+/** Contacts section **/
+
+#contact {
+	text-align: center;
+}
+
+/** Footer **/
+
+#footer {
+	background-color: black;
+	height: 150px;
+	width: 100%;
+	text-align: right;
+	padding: none !important;
+}
